@@ -4,4 +4,4 @@ application de soutien scolaire
 
 #### License
 
-mit
+mit# scolarite
